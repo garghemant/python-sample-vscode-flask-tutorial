@@ -1,6 +1,6 @@
 variables:
   ConnectedServiceName: 'conn1'
-  WebAppName: 'app1'
+  WebAppName: 'hmg-web-app1'
 
 trigger:
 - master
